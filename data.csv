@@ -1,0 +1,5 @@
+sky,air_temp,humidity,wind,forecast,water,enjoy
+sunny,warm,high,strong,same,warm,yes
+sunny,warm,normal,strong,same,warm,yes
+rainy,cool,high,strong,change,cool,no
+sunny,warm,normal,strong,change,cool,yes
